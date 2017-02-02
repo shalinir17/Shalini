@@ -1,0 +1,11 @@
+PASS	Basic Statistics	small.fastq
+FAIL	Per base sequence quality	small.fastq
+PASS	Per sequence quality scores	small.fastq
+FAIL	Per base sequence content	small.fastq
+FAIL	Per base GC content	small.fastq
+FAIL	Per sequence GC content	small.fastq
+PASS	Per base N content	small.fastq
+PASS	Sequence Length Distribution	small.fastq
+PASS	Sequence Duplication Levels	small.fastq
+FAIL	Overrepresented sequences	small.fastq
+FAIL	Kmer Content	small.fastq

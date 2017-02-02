@@ -1,0 +1,7 @@
+miRNA objective implementation
+------------------------------
+* Identify the miRNAs present in input fastq data
+- ruffus
+- Distributed Resource Management Application API (DRMAA)
+- omics pipe
+- sudo pip install ConfigParser

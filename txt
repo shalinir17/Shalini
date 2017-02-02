@@ -1,0 +1,4 @@
+SE - single end
+PE - paired end
+
+whereis drmaa - #locate the path 
